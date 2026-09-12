@@ -2,7 +2,7 @@
 
 <p>
   <strong>XSMB 30 ngày</strong> tại
-  <a href="https://xosomiennam.dev/xsmb-30-ngay/">
+  <a rel="dofollow" href="https://xosomiennam.dev/xsmb-30-ngay/">
     XOSOMIENNAM.DEV
   </a>
   hỗ trợ người dùng tra cứu nhanh kết quả xổ số miền Bắc trong 30 ngày gần nhất.
@@ -25,7 +25,7 @@
 
 <p>
   Truy cập:
-  <a href="https://xosomiennam.dev/xsmb-30-ngay/">
+  <a rel="dofollow" href="https://xosomiennam.dev/xsmb-30-ngay/">
     XSMB 30 Ngày
   </a>
 </p>
